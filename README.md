@@ -9,3 +9,4 @@ https://www.linkedin.com/in/dielle-d-350a0b186/
 ```
 
 ## About the tool:
+RapidSOC is an advanced open‑source tool designed to help SOC teams perform comprehensive OSINT investigations in one unified platform. By integrating multiple industry‑recognized OSINT APIs, it streamlines workflows and significantly reduces investigation time.
